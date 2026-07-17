@@ -352,7 +352,7 @@
   if (eqToggleBtn) {
     eqToggleBtn.addEventListener("mousedown", async function (e) {
       e.stopPropagation(); e.preventDefault();
-      var r = await toggleSubWindow("eq", "eq.html", 275, 116);
+      var r = await toggleSubWindow("eq", "pages/eq.html", 275, 116);
       eqVisible = r.visible;
       eqToggleBtn.classList.toggle("selected", eqVisible);
     });
@@ -362,7 +362,7 @@
   if (plToggleBtn) {
     plToggleBtn.addEventListener("mousedown", async function (e) {
       e.stopPropagation(); e.preventDefault();
-      var r = await toggleSubWindow("pl", "pl.html", 275, 332);
+      var r = await toggleSubWindow("pl", "pages/pl.html", 275, 332);
       plVisible = r.visible;
       plToggleBtn.classList.toggle("selected", plVisible);
     });
@@ -372,7 +372,7 @@
   if (videoToggleBtn) {
     videoToggleBtn.addEventListener("mousedown", async function (e) {
       e.stopPropagation(); e.preventDefault();
-      var r = await toggleSubWindow("video", "video.html", 275, 184);
+      var r = await toggleSubWindow("video", "pages/video.html", 275, 184);
       videoVisible = r.visible;
       videoToggleBtn.classList.toggle("selected", videoVisible);
     });

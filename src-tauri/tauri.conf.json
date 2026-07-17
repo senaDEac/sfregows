@@ -27,7 +27,7 @@
       {
         "label": "radio",
         "title": "Sfregows Radio",
-        "url": "radio.html",
+        "url": "pages/radio.html",
         "width": 320,
         "height": 400,
         "minWidth": 200,
@@ -40,7 +40,7 @@
       {
         "label": "eq",
         "title": "Sfregows Equalizer",
-        "url": "eq.html",
+        "url": "pages/eq.html",
         "width": 275,
         "height": 116,
         "minWidth": 275,
@@ -53,7 +53,7 @@
       {
         "label": "pl",
         "title": "Sfregows Playlist",
-        "url": "pl.html",
+        "url": "pages/pl.html",
         "width": 275,
         "height": 332,
         "minWidth": 275,
@@ -66,7 +66,7 @@
       {
         "label": "video",
         "title": "Sfregows Video",
-        "url": "video.html",
+        "url": "pages/video.html",
         "width": 275,
         "height": 184,
         "minWidth": 275,
