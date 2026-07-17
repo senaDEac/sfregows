@@ -19,7 +19,7 @@ desktop.ini
 *.swo
 *~
 
-# Backups (manter separado do repo)
+# Backups
 sfregows.antigo/
 sfregows-2026*/
 
@@ -33,4 +33,3 @@ sfregows-2026*/
 # Tauri
 src-tauri/WixTools/
 src-tauri/Frameworks/
-src-tauri/sfregows.ico
