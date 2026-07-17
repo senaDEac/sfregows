@@ -1,0 +1,36 @@
+# Build artifacts
+src-tauri/target/
+src-tauri/gen/
+*.deb
+
+# Node
+node_modules/
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backups (manter separado do repo)
+sfregows.antigo/
+sfregows-2026*/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# Tauri
+src-tauri/WixTools/
+src-tauri/Frameworks/
+src-tauri/sfregows.ico

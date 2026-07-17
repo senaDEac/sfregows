@@ -1,0 +1,101 @@
+{
+  "productName": "sfregows",
+  "version": "1.0.0",
+  "identifier": "com.sena.sfregows",
+  "build": {
+    "beforeDevCommand": "",
+    "devUrl": null,
+    "beforeBuildCommand": "",
+    "frontendDist": "../interface"
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "label": "main",
+        "title": "Sfregows",
+        "width": 275,
+        "height": 116,
+        "minWidth": 275,
+        "minHeight": 14,
+        "resizable": true,
+        "fullscreen": false,
+        "decorations": true,
+        "transparent": false,
+        "devtools": true
+      },
+      {
+        "label": "radio",
+        "title": "Sfregows Radio",
+        "url": "radio.html",
+        "width": 320,
+        "height": 400,
+        "minWidth": 200,
+        "minHeight": 200,
+        "resizable": true,
+        "decorations": true,
+        "transparent": false,
+        "visible": false
+      },
+      {
+        "label": "eq",
+        "title": "Sfregows Equalizer",
+        "url": "eq.html",
+        "width": 275,
+        "height": 116,
+        "minWidth": 275,
+        "minHeight": 116,
+        "resizable": false,
+        "decorations": true,
+        "transparent": false,
+        "visible": false
+      },
+      {
+        "label": "pl",
+        "title": "Sfregows Playlist",
+        "url": "pl.html",
+        "width": 275,
+        "height": 332,
+        "minWidth": 275,
+        "minHeight": 116,
+        "resizable": true,
+        "decorations": true,
+        "transparent": false,
+        "visible": false
+      },
+      {
+        "label": "video",
+        "title": "Sfregows Video",
+        "url": "video.html",
+        "width": 275,
+        "height": 184,
+        "minWidth": 275,
+        "minHeight": 184,
+        "resizable": true,
+        "decorations": true,
+        "transparent": false,
+        "visible": false
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self' ipc: ipc://* http://ipc.localhost/ data: blob: ws: wss: 'unsafe-inline' 'unsafe-eval'; media-src 'self' data: blob: https: http:; connect-src 'self' ipc: ipc://* http://ipc.localhost/ http://localhost:* ws://localhost:* data: blob: https: http:; img-src 'self' data: blob: https: http:; style-src 'self' 'unsafe-inline' data: blob:; font-src 'self' data: blob: https: http:"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["deb"],
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png"
+    ],
+    "linux": {
+      "deb": {
+        "depends": [
+          "libwebkit2gtk-4.1-0",
+          "libgtk-3-0"
+        ]
+      }
+    }
+  }
+}

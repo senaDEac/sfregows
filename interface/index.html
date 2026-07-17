@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Sfregows</title>
+    <link rel="stylesheet" href="./css/main.css" />
+    <link rel="icon" href="./favicon.ico" />
+  </head>
+  <body>
+    <div id="main">
+      <!-- player -->
+      <div id="sfregows" class="selected">
+        <!-- TITLE BAR -->
+        <div id="titlebar">
+          <div id="option" title="Sfregows Menu"></div>
+          <div id="contend" title="Contend"></div>
+          <div id="minimize" title="Minimize"></div>
+          <div id="shade" title="Window Shade"></div>
+          <div id="close" title="Close"></div>
+        </div>
+
+        <!-- CLUTTER BAR -->
+        <div id="clutterbar">
+          <div id="cb-o"></div>
+          <div id="cb-a"></div>
+          <div id="cb-i"></div>
+          <div id="cb-d"></div>
+          <div id="cb-aot" title="Always On Top"></div>
+        </div>
+
+        <!-- STATUS AREA -->
+        <div id="status">
+          <div id="play-pause"></div>
+          <div id="work-indicator"></div>
+          <div id="time">
+            <div id="min-first" class="digit" data-digit="0"></div>
+            <div id="min-second" class="digit" data-digit="0"></div>
+            <div class="colon">:</div>
+            <div id="sec-first" class="digit" data-digit="0"></div>
+            <div id="sec-second" class="digit" data-digit="0"></div>
+          </div>
+        </div>
+
+        <!-- VISUALIZER -->
+        <div id="visualizer"></div>
+
+        <!-- MEDIA INFO -->
+        <div id="media-info">
+          <div id="marquee"><span>Sfregows - Music Player</span></div>
+          <div id="kbps">128</div>
+          <div id="khz">44</div>
+          <div id="mono-stereo">
+            <div id="mono"></div>
+            <div id="stereo" class="selected"></div>
+          </div>
+        </div>
+
+        <!-- VOLUME -->
+        <div id="volume">
+          <input type="range" min="0" max="100" value="75" />
+        </div>
+
+        <!-- BALANCE -->
+        <div id="balance">
+          <input type="range" min="-100" max="100" value="0" />
+        </div>
+
+        <!-- EQ/PL TOGGLE -->
+        <div id="windows">
+          <div id="eq-button"></div>
+          <div id="pl-button"></div>
+        </div>
+
+        <!-- POSITION/SEEK -->
+        <div id="position">
+          <input type="range" min="0" max="1000" value="0" />
+        </div>
+
+        <!-- TRANSPORT -->
+        <div id="actions">
+          <div id="prev" title="Previous"></div>
+          <div id="play" title="Play"></div>
+          <div id="pause" title="Pause"></div>
+          <div id="stop" title="Stop"></div>
+          <div id="next" title="Next"></div>
+        </div>
+
+        <!-- EJECT -->
+        <div id="eject" title="Open File"></div>
+
+        <!-- SHUFFLE/REPEAT -->
+        <div id="shuffle-repeat">
+          <div id="shuffle" title="Shuffle"></div>
+          <div id="repeat" title="Repeat"></div>
+        </div>
+
+        <!-- RADIO/VIDEO BUTTONS (titlebar area) -->
+        <div id="radio-iptv">
+          <div id="radio-button" title="Radio"></div>
+          <div id="video-button" title="Video"></div>
+        </div>
+
+        <!-- RESIZE HANDLE (inside player, bottom-right) -->
+        <div id="resize-handle" title="Resize"></div>
+      </div>
+    </div>
+
+    <audio id="radio-audio" preload="none" crossorigin="anonymous"></audio>
+
+    <script src="./js/main.js"></script>
+    <script src="./js/radio.js"></script>
+    <script src="./js/vu.js"></script>
+  </body>
+</html>

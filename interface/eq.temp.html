@@ -1,0 +1,208 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Sfregows Equalizer</title>
+    <link rel="stylesheet" href="./css/eq.css" />
+  </head>
+  <body>
+    <div id="eq-app">
+      <!-- TITLEBAR -->
+      <div id="eq-titlebar">
+        <span id="eq-title-text">EQUALIZER</span>
+        <div id="eq-close" title="Close"></div>
+      </div>
+
+      <!-- ON / AUTO -->
+      <div id="eq-controls-top">
+        <div id="eq-on" class="eq-btn" title="EQ On/Off">ON</div>
+        <div id="eq-auto" class="eq-btn" title="Auto Preset">AUTO</div>
+      </div>
+
+      <!-- PRESETS BUTTON -->
+      <div id="eq-presets-btn" title="Presets">PRESETS</div>
+
+      <!-- MAIN EQ AREA -->
+      <div id="eq-body">
+        <!-- PREAMP -->
+        <div class="eq-band" data-band="preamp">
+          <div class="eq-band-label">PRE</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+          <div class="eq-band-label">+12</div>
+        </div>
+
+        <!-- DIVIDER -->
+        <div class="eq-divider"></div>
+
+        <!-- 10 FREQUENCY BANDS -->
+        <div class="eq-band" data-band="60">
+          <div class="eq-band-label">60</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+        <div class="eq-band" data-band="170">
+          <div class="eq-band-label">170</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+        <div class="eq-band" data-band="310">
+          <div class="eq-band-label">310</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+        <div class="eq-band" data-band="600">
+          <div class="eq-band-label">600</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+        <div class="eq-band" data-band="1k">
+          <div class="eq-band-label">1K</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+        <div class="eq-band" data-band="3k">
+          <div class="eq-band-label">3K</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+        <div class="eq-band" data-band="6k">
+          <div class="eq-band-label">6K</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+        <div class="eq-band" data-band="12k">
+          <div class="eq-band-label">12K</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+        <div class="eq-band" data-band="14k">
+          <div class="eq-band-label">14K</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+        <div class="eq-band" data-band="16k">
+          <div class="eq-band-label">16K</div>
+          <div class="eq-slider-track">
+            <input
+              type="range"
+              class="eq-slider"
+              min="-12"
+              max="12"
+              value="0"
+              orient="vertical"
+            />
+          </div>
+        </div>
+      </div>
+
+      <!-- SPLINE CURVE -->
+      <canvas id="eq-canvas" width="250" height="20"></canvas>
+
+      <!-- PRESETS DROPDOWN -->
+      <div id="eq-presets-dropdown" class="hidden">
+        <div class="preset-item" data-preset="flat">Flat</div>
+        <div class="preset-item" data-preset="rock">Rock</div>
+        <div class="preset-item" data-preset="pop">Pop</div>
+        <div class="preset-item" data-preset="classical">Classical</div>
+        <div class="preset-item" data-preset="techno">Techno</div>
+        <div class="preset-item" data-preset="jazz">Jazz</div>
+        <div class="preset-item" data-preset="dance">Dance</div>
+        <div class="preset-item" data-preset="fullbass">Full Bass</div>
+        <div class="preset-item" data-preset="fulltreble">Full Treble</div>
+        <div class="preset-item" data-preset="laptop">Laptop Speakers</div>
+        <div class="preset-item" data-preset="live">Live</div>
+        <div class="preset-item" data-preset="party">Party</div>
+        <div class="preset-item" data-preset="reggae">Reggae</div>
+        <div class="preset-item" data-preset="soft">Soft</div>
+        <div class="preset-item" data-preset="ska">Ska</div>
+      </div>
+    </div>
+
+    <script src="./js/eq.js"></script>
+  </body>
+</html>
