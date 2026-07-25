@@ -1,0 +1,11 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/deps/cargo_metadata-b11f3f3b40b35d8d.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/dependency.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/diagnostic.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/errors.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/messages.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/deps/libcargo_metadata-b11f3f3b40b35d8d.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/dependency.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/diagnostic.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/errors.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/messages.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/deps/libcargo_metadata-b11f3f3b40b35d8d.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/dependency.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/diagnostic.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/errors.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/messages.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/dependency.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/diagnostic.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/errors.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.19.2/src/messages.rs:

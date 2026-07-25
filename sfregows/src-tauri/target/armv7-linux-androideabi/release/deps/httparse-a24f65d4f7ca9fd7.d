@@ -1,0 +1,11 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/armv7-linux-androideabi/release/deps/httparse-a24f65d4f7ca9fd7.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/iter.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/macros.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/simd/mod.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/simd/swar.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/armv7-linux-androideabi/release/deps/libhttparse-a24f65d4f7ca9fd7.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/iter.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/macros.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/simd/mod.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/simd/swar.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/armv7-linux-androideabi/release/deps/libhttparse-a24f65d4f7ca9fd7.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/iter.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/macros.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/simd/mod.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/simd/swar.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/iter.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/macros.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/simd/mod.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/httparse-1.10.1/src/simd/swar.rs:

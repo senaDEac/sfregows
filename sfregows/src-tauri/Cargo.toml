@@ -5,6 +5,10 @@ description = "Music player and webradio receiver"
 authors = ["sena"]
 edition = "2021"
 
+[lib]
+name = "sfregows"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
 [build-dependencies]
 tauri-build = { version = "2", features = [] }
 

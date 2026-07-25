@@ -1,0 +1,11 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/tower_layer-fcff2feedff93245.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/identity.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/layer_fn.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/stack.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/tuple.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libtower_layer-fcff2feedff93245.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/identity.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/layer_fn.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/stack.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/tuple.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libtower_layer-fcff2feedff93245.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/identity.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/layer_fn.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/stack.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/tuple.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/identity.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/layer_fn.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/stack.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.3/src/tuple.rs:

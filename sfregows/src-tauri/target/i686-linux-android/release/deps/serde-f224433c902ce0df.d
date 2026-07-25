@@ -1,0 +1,14 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/serde-f224433c902ce0df.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/serde-eddff27e65ccf9da/out/private.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libserde-f224433c902ce0df.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/serde-eddff27e65ccf9da/out/private.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libserde-f224433c902ce0df.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/serde-eddff27e65ccf9da/out/private.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/serde-eddff27e65ccf9da/out/private.rs:
+
+# env-dep:OUT_DIR=/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/serde-eddff27e65ccf9da/out

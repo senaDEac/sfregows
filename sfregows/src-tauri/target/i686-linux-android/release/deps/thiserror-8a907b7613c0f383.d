@@ -1,0 +1,14 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/thiserror-8a907b7613c0f383.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/aserror.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/display.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/var.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/private.rs /mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/thiserror-7cb908dacd9c64f6/out/private.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libthiserror-8a907b7613c0f383.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/aserror.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/display.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/var.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/private.rs /mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/thiserror-7cb908dacd9c64f6/out/private.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libthiserror-8a907b7613c0f383.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/aserror.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/display.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/var.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/private.rs /mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/thiserror-7cb908dacd9c64f6/out/private.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/aserror.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/display.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/var.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.19/src/private.rs:
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/thiserror-7cb908dacd9c64f6/out/private.rs:
+
+# env-dep:OUT_DIR=/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/build/thiserror-7cb908dacd9c64f6/out

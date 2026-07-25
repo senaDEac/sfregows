@@ -1,0 +1,10 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/toml_datetime-14f9cd9c9786eca5.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/datetime.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/de.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/ser.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libtoml_datetime-14f9cd9c9786eca5.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/datetime.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/de.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/ser.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libtoml_datetime-14f9cd9c9786eca5.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/datetime.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/de.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/ser.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/datetime.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/de.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-1.1.1+spec-1.1.0/src/ser.rs:

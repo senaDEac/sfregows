@@ -1,0 +1,11 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/aarch64-linux-android/release/deps/powerfmt-b1618f5feac3292b.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/buf.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/ext.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/smart_display.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/smart_display_impls.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/aarch64-linux-android/release/deps/libpowerfmt-b1618f5feac3292b.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/buf.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/ext.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/smart_display.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/smart_display_impls.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/aarch64-linux-android/release/deps/libpowerfmt-b1618f5feac3292b.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/buf.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/ext.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/smart_display.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/smart_display_impls.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/buf.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/ext.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/smart_display.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.0/src/smart_display_impls.rs:

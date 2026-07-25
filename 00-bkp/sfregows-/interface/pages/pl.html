@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Sfregows Playlist</title>
+    <link rel="stylesheet" href="../css/pl.css" />
+  </head>
+  <body>
+    <div id="pl-app">
+      <!-- TITLEBAR -->
+      <div id="pl-titlebar">
+        <span id="pl-title-text">PLAYLIST EDITOR</span>
+        <div id="pl-close" title="Close"></div>
+      </div>
+
+      <!-- TRACK LIST -->
+      <div id="pl-list"></div>
+
+      <!-- BOTTOM BAR -->
+      <div id="pl-bottom">
+        <!-- TIME DISPLAY -->
+        <div id="pl-time">
+          <span id="pl-time-total">0:00</span>
+        </div>
+
+        <!-- ACTION BUTTONS -->
+        <div id="pl-actions">
+          <div id="pl-add" class="pl-action-btn" title="Add">
+            <span>ADD</span>
+            <div class="pl-dropdown hidden" id="pl-add-menu">
+              <div class="pl-dropdown-item" data-action="add-files">+ File(s)</div>
+              <div class="pl-dropdown-item" data-action="add-dir">+ Directory</div>
+              <div class="pl-dropdown-item" data-action="add-url">+ URL</div>
+            </div>
+          </div>
+          <div id="pl-rem" class="pl-action-btn" title="Remove">
+            <span>REM</span>
+            <div class="pl-dropdown hidden" id="pl-rem-menu">
+              <div class="pl-dropdown-item" data-action="rem-selected">Remove Selected</div>
+              <div class="pl-dropdown-item" data-action="rem-all">Remove All</div>
+              <div class="pl-dropdown-item" data-action="rem-dead">Remove Dead</div>
+            </div>
+          </div>
+          <div id="pl-sel" class="pl-action-btn" title="Select">
+            <span>SEL</span>
+            <div class="pl-dropdown hidden" id="pl-sel-menu">
+              <div class="pl-dropdown-item" data-action="sel-all">Select All</div>
+              <div class="pl-dropdown-item" data-action="sel-none">Select None</div>
+              <div class="pl-dropdown-item" data-action="sel-invert">Invert Selection</div>
+            </div>
+          </div>
+          <div id="pl-misc" class="pl-action-btn" title="Misc">
+            <span>MISC</span>
+            <div class="pl-dropdown hidden" id="pl-misc-menu">
+              <div class="pl-dropdown-item" data-action="sort-title">Sort by Title</div>
+              <div class="pl-dropdown-item" data-action="sort-file">Sort by Filename</div>
+              <div class="pl-dropdown-item" data-action="reverse">Reverse List</div>
+              <div class="pl-dropdown-item" data-action="shuffle-list">Randomize List</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TRANSPORT -->
+        <div id="pl-transport">
+          <div id="pl-prev" class="pl-transport-btn" title="Previous"></div>
+          <div id="pl-play" class="pl-transport-btn" title="Play"></div>
+          <div id="pl-pause" class="pl-transport-btn" title="Pause"></div>
+          <div id="pl-stop" class="pl-transport-btn" title="Stop"></div>
+          <div id="pl-next" class="pl-transport-btn" title="Next"></div>
+        </div>
+      </div>
+
+      <!-- URL INPUT DIALOG -->
+      <div id="pl-url-dialog" class="hidden">
+        <div class="pl-dialog-title">Add URL</div>
+        <input type="text" id="pl-url-input" placeholder="http://..." />
+        <div class="pl-dialog-buttons">
+          <button id="pl-url-ok">OK</button>
+          <button id="pl-url-cancel">Cancel</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- HIDDEN FILE INPUTS -->
+    <input type="file" id="pl-file-input" multiple accept="audio/*" style="display:none" />
+    <input type="file" id="pl-dir-input" webkitdirectory style="display:none" />
+
+    <script src="../js/pl.js"></script>
+  </body>
+</html>

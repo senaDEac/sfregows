@@ -1,0 +1,11 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/armv7-linux-androideabi/release/deps/socket2-79d3fb82b57a4f7f.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sockaddr.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/socket.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sockref.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sys/unix.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/armv7-linux-androideabi/release/deps/libsocket2-79d3fb82b57a4f7f.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sockaddr.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/socket.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sockref.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sys/unix.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/armv7-linux-androideabi/release/deps/libsocket2-79d3fb82b57a4f7f.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sockaddr.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/socket.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sockref.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sys/unix.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sockaddr.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/socket.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sockref.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.5/src/sys/unix.rs:

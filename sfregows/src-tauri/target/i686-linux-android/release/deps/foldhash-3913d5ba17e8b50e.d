@@ -1,0 +1,11 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/foldhash-3913d5ba17e8b50e.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/fast.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/quality.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/seed.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/convenience.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libfoldhash-3913d5ba17e8b50e.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/fast.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/quality.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/seed.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/convenience.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/i686-linux-android/release/deps/libfoldhash-3913d5ba17e8b50e.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/fast.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/quality.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/seed.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/convenience.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/fast.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/quality.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/seed.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/convenience.rs:

@@ -1,0 +1,11 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/aarch64-linux-android/release/deps/tauri_runtime-69b3bef1c9a7f29b.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/dpi.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/monitor.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/webview.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/window.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/aarch64-linux-android/release/deps/libtauri_runtime-69b3bef1c9a7f29b.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/dpi.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/monitor.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/webview.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/window.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/aarch64-linux-android/release/deps/libtauri_runtime-69b3bef1c9a7f29b.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/dpi.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/monitor.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/webview.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/window.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/dpi.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/monitor.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/webview.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-runtime-2.11.3/src/window.rs:

@@ -19,10 +19,14 @@ desktop.ini
 *.swo
 *~
 
-# Backups (manter separado do repo)
-00-*/
-bkp.sh
+# Backups
+sfregows.antigo/
+sfregows-2026*/
 VintageRadio/
+bkp*
+compile*
+AGENTS.node_modules
+
 # Logs
 *.log
 
@@ -33,4 +37,3 @@ VintageRadio/
 # Tauri
 src-tauri/WixTools/
 src-tauri/Frameworks/
-src-tauri/sfregows.ico

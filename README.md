@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Sfregows e um player de musica multi-plataforma com suporte a webradio brasileira, inspirado na interface classica do Winamp 2.x. O projeto combina a nostalgic visual do Winamp com tecnologias modernas, oferecendo uma experiencia desktop nativa via Tauri 2 com performance minima.
+Sfregows e um player de musica multi-plataforma com suporte a webradio mundial, inspirado na interface classica do Winamp 2.x. O projeto combina o visual nostalgico do Winamp com tecnologias modernas, oferecendo uma experiencia desktop nativa via Tauri 2 com performance minima.
 
 ### Stack
 
@@ -18,6 +18,7 @@ Sfregows e um player de musica multi-plataforma com suporte a webradio brasileir
 ## Features
 
 ### Player Core
+
 - Interface classica Winamp 2.x com sprites authenticos
 - Skins `.wsz` (2 inclusos: MacOSXAqua1-5, XMMS-Turquoise)
 - Controles de volume e balance (sliders com sprites)
@@ -29,11 +30,13 @@ Sfregows e um player de musica multi-plataforma com suporte a webradio brasileir
 - Scaling responsivo (proporcional ao viewport)
 
 ### Webradio
-- 9 estacoes brasileiras: 80FM, 89FM, Jovem Pan Ourinhos, KISS FM, Antena 1, Transamerica, Cidade, Band News FM, Alpha FM
+
+- 9 estacoes brasileiras já pré-configuradas: 80FM, 89FM, Jovem Pan Ourinhos, KISS FM, Antena 1, Transamerica, Cidade, Band News FM, Alpha FM
 - Radio sub-window com logos clicaveis
 - Toggle play/stop com timeout 10s
 
 ### Window Management (Tauri)
+
 - Sem decoracoes de janela (decorations=false)
 - Janela transparente
 - Tamanho inicial: 275x116 (tamanho exato do player)
@@ -45,6 +48,7 @@ Sfregows e um player de musica multi-plataforma com suporte a webradio brasileir
 - Always On Top (botao no clutterbar, toggle via Tauri API)
 
 ### Visualizer (vu.js)
+
 - **Spectrum Analyzer**: barras com falloff + peak dots
 - **Fire**: barras com gradiente vermelho/amarelo
 - **Dots**: pontos nas posicoes das barras
@@ -53,6 +57,7 @@ Sfregows e um player de musica multi-plataforma com suporte a webradio brasileir
 - Click no visualizer para ciclar entre modos
 
 ### Janelas Independentes
+
 - **Radio**: 9 estacoes com logos clicaveis
 - **Equalizer**: 15 presets, sliders, spline
 - **Playlist**: add files/dir/url, sort, transport
@@ -145,17 +150,17 @@ cargo tauri build
 
 ## Compatibilidade
 
-| Feature | Tauri (Desktop) | Browser |
-|---------|-----------------|---------|
-| Player basico | ✅ | ✅ |
-| Radio streams | ✅ | ✅ |
-| VU Analyzer | ✅ | ✅ |
-| Skins .wsz | ✅ | ✅ |
-| Window drag | ✅ | ❌ |
-| Shade mode | ✅ | ❌ |
-| Resize handle | ✅ | ❌ |
-| Always On Top | ✅ | ❌ |
-| Sub-windows | ✅ | ⚠️ window.open() |
+| Feature       | Tauri (Desktop) | Browser          |
+| ------------- | --------------- | ---------------- |
+| Player basico | ✅              | ✅               |
+| Radio streams | ✅              | ✅               |
+| VU Analyzer   | ✅              | ✅               |
+| Skins .wsz    | ✅              | ✅               |
+| Window drag   | ✅              | ❌               |
+| Shade mode    | ✅              | ❌               |
+| Resize handle | ✅              | ❌               |
+| Always On Top | ✅              | ❌               |
+| Sub-windows   | ✅              | ⚠️ window.open() |
 
 ## Notas Tecnicas
 
