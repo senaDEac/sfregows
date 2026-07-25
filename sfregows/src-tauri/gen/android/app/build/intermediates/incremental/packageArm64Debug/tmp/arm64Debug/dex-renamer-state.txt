@@ -1,0 +1,22 @@
+#Fri Jul 24 17:54:11 BRT 2026
+path.4=0/classes.dex
+path.3=3/classes.dex
+path.2=10/classes.dex
+path.1=1/classes.dex
+path.6=classes2.dex
+path.5=2/classes.dex
+path.0=classes.dex
+base.4=/mnt/Dados/projetos/sfregows/sfregows-2/src-tauri/gen/android/app/build/intermediates/dex/arm64Debug/mergeProjectDexArm64Debug/0/classes.dex
+base.3=/mnt/Dados/projetos/sfregows/sfregows-2/src-tauri/gen/android/app/build/intermediates/dex/arm64Debug/mergeLibDexArm64Debug/3/classes.dex
+base.2=/mnt/Dados/projetos/sfregows/sfregows-2/src-tauri/gen/android/app/build/intermediates/dex/arm64Debug/mergeLibDexArm64Debug/10/classes.dex
+base.1=/mnt/Dados/projetos/sfregows/sfregows-2/src-tauri/gen/android/app/build/intermediates/dex/arm64Debug/mergeLibDexArm64Debug/1/classes.dex
+base.0=/mnt/Dados/projetos/sfregows/sfregows-2/src-tauri/gen/android/app/build/intermediates/dex/arm64Debug/mergeExtDexArm64Debug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.6=classes7.dex
+renamed.5=classes6.dex
+base.6=/mnt/Dados/projetos/sfregows/sfregows-2/src-tauri/gen/android/app/build/intermediates/dex/arm64Debug/mergeExtDexArm64Debug/classes2.dex
+renamed.4=classes5.dex
+base.5=/mnt/Dados/projetos/sfregows/sfregows-2/src-tauri/gen/android/app/build/intermediates/dex/arm64Debug/mergeProjectDexArm64Debug/2/classes.dex
