@@ -1,0 +1,12 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/deps/ico-8044114b06b956f5.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/macros.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/bmpdepth.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/icondir.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/image.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/restype.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/deps/libico-8044114b06b956f5.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/macros.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/bmpdepth.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/icondir.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/image.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/restype.rs
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/deps/libico-8044114b06b956f5.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/macros.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/bmpdepth.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/icondir.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/image.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/restype.rs
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/macros.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/bmpdepth.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/icondir.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/image.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.6.0/src/restype.rs:

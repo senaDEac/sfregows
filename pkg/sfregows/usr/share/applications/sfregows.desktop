@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=Music player and webradio receiver
+Exec=sfregows
+StartupWMClass=sfregows
+Icon=sfregows
+Name=sfregows
+Terminal=false
+Type=Application

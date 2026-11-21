@@ -1,0 +1,11 @@
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/deps/tauri_build-075862b2cb79bf46.d: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/acl.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/manifest.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/mobile.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/windows-app-manifest.xml
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/deps/libtauri_build-075862b2cb79bf46.rlib: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/acl.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/manifest.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/mobile.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/windows-app-manifest.xml
+
+/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/deps/libtauri_build-075862b2cb79bf46.rmeta: /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/lib.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/acl.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/manifest.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/mobile.rs /home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/windows-app-manifest.xml
+
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/lib.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/acl.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/manifest.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/mobile.rs:
+/home/sena/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-build-2.7.6/src/windows-app-manifest.xml:

@@ -1,0 +1,13 @@
+cargo:rerun-if-env-changed=TAURI_CONFIG
+cargo:rustc-check-cfg=cfg(desktop)
+cargo:rustc-cfg=desktop
+cargo:rustc-check-cfg=cfg(mobile)
+cargo:rerun-if-changed=/mnt/Dados/projetos/sfregows/sfregows/src-tauri/tauri.conf.json
+cargo:warning=STATIC_VCRUNTIME is deprecated; use build.windows.staticVCRuntime in tauri.conf.json or tauri_build::WindowsAttributes::static_vc_runtime instead.
+cargo:rustc-env=TAURI_ANDROID_PACKAGE_NAME_APP_NAME=sfregows
+cargo:rustc-env=TAURI_ANDROID_PACKAGE_NAME_PREFIX=com_sena
+cargo:rustc-check-cfg=cfg(dev)
+cargo:PERMISSION_FILES_PATH=/mnt/Dados/projetos/sfregows/sfregows/src-tauri/target/release/build/sfregows-fc2a6221cb0eb62f/out/app-manifest/__app__-permission-files
+cargo:rerun-if-changed=/mnt/Dados/projetos/sfregows/sfregows/src-tauri/capabilities
+cargo:rerun-if-env-changed=REMOVE_UNUSED_COMMANDS
+cargo:rustc-env=TAURI_ENV_TARGET_TRIPLE=x86_64-unknown-linux-gnu

@@ -1,7 +1,7 @@
 Package: sfregows
 Version: 1.0.0
 Architecture: amd64
-Installed-Size: 10102
+Installed-Size: 11725
 Maintainer: sena
 Priority: optional
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libwebkit2gtk-4.1-0, libgtk-3-0
