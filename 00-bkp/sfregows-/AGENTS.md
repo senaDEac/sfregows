@@ -11,6 +11,20 @@ Player de musica multi-plataforma com suporte a webradio. Interface classica ins
 - **Audio**: Web Audio API + MediaSession API
 - **Sprites**: Winamp 2.x clasicos (MAIN.png, TITLEBAR.png, etc)
 
+# Regras de eficiencia
+
+- Seja extremamente conciso. Responda apenas o necessario.
+- Nao apresente relatorios de progresso nem descreva cada acao.
+- Antes de ler arquivos, identifique quais sao realmente relevantes.
+- Nunca leia arquivos inteiros quando bastar consultar trechos especificos.
+- Nao repita pesquisas, comandos ou verificacoes ja realizadas.
+- Nao crie arquivos, documentacao ou testes desnecessarios.
+- Altere somente o necessario para cumprir a solicitacao.
+- Nao execute tarefas adicionais sem autorizacao.
+- Verifique apenas o essencial para confirmar que a alteracao funciona.
+- Ao terminar, informe somente os arquivos alterados e o resultado.
+- Se faltar informacao essencial, faca uma unica pergunta objetiva.
+
 ## Estrutura
 
 ```
@@ -64,6 +78,7 @@ sudo dpkg -r sfregows
 ## Features Implementadas
 
 ### Player Core
+
 - [x] Player de musica com interface classica Winamp 2.x
 - [x] Skins .wsz (2 inclusos: MacOSXAqua1-5, XMMS-Turquoise)
 - [x] Controles de volume e balance (sliders com sprites)
@@ -75,11 +90,13 @@ sudo dpkg -r sfregows
 - [x] Scaling responsivo (proporcional ao viewport)
 
 ### Webradio
+
 - [x] 9 estacoes brasileiras, janela toggle
 - [x] Radio sub-window com logos clicaveis
 - [x] Toggle play/stop com timeout 10s
 
 ### Window Management (Tauri)
+
 - [x] Sem decoracoes de janela (decorations=false)
 - [x] Janela transparente
 - [x] Tamanho inicial: 275x116 (tamanho exato do player)
@@ -91,6 +108,7 @@ sudo dpkg -r sfregows
 - [x] Always On Top (botao no clutterbar, toggle via Tauri API)
 
 ### Visualizer (vu.js)
+
 - [x] Spectrum Analyzer (barras com falloff + peak dots)
 - [x] Fire (barras com gradiente vermelho/amarelo)
 - [x] Dots (pontos nas posicoes das barras)
@@ -100,6 +118,7 @@ sudo dpkg -r sfregows
 - [x] Spectrum como default (sem texto "CLICK")
 
 ### Compatibilidade
+
 - [x] Deteccao de Tauri via `window.__TAURI__`
 - [x] Fallback browser: features Tauri desabilitadas
 - [x] Resize handle escondido no browser
@@ -183,6 +202,7 @@ sudo dpkg -r sfregows
 **Causa**: Janelas nao estavam definidas em `tauri.conf.json` e nao havia codigo pra gerenciar abertura/fechamento.
 
 **Solucao**:
+
 1. Criar arquivos HTML/JS/CSS separados (`eq.html`, `pl.html`, `video.html`)
 2. Adicionar 5 janelas em `tauri.conf.json` com `visible: false`
 3. Atualizar `capabilities/default.json` pra incluir todas as janelas
@@ -213,12 +233,12 @@ sudo dpkg -r sfregows
 
 ## Backups Existentes
 
-| Caminho | Data | Descricao |
-|---------|------|-----------|
-| `sfregows.antigo/` | Antigo | Versao original simples (3 modos VU) |
-| `sfregows-20260714_1508/` | 14/07 15:08 | Sem vu.js ainda |
+| Caminho                   | Data        | Descricao                                          |
+| ------------------------- | ----------- | -------------------------------------------------- |
+| `sfregows.antigo/`        | Antigo      | Versao original simples (3 modos VU)               |
+| `sfregows-20260714_1508/` | 14/07 15:08 | Sem vu.js ainda                                    |
 | `sfregows-20260716_1125/` | 16/07 11:25 | VU completo (5 modos) com createMediaElementSource |
-| `sfregows-20260716_1204/` | 16/07 12:04 | VU com spectrum simulado (fallback) |
+| `sfregows-20260716_1204/` | 16/07 12:04 | VU com spectrum simulado (fallback)                |
 
 **Versao atual funciona com base no backup `20260716_1125` + `crossorigin="anonymous"`.**
 
@@ -236,12 +256,14 @@ git commit -m "Versao estavel: VU funciona com todas as radios"
 ```
 
 **Fluxo recomendado**:
+
 1. Quando algo funcionar bem: `git add -A && git commit -m "DESCRICAO"`
 2. Pra ver historico: `git log --oneline`
 3. Pra voltar a uma versao: `git checkout <hash>`
 4. Pra desfazer ultima mudanca: `git revert HEAD`
 
 **Nomes de commits uteis**:
+
 - `"VU funciona com todas as radios"`
 - `"Janelas EQ/PL/Video funcionando"`
 - `"Radio window com 9 estacoes"`

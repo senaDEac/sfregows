@@ -10,6 +10,20 @@ Projeto de teste para desenvolvimento e experimentacao de novas features do Sfre
 - **Desktop**: Tauri 2 (Rust + WebView)
 - **Audio**: Web Audio API + MediaSession API
 
+# Regras de eficiencia
+
+- Seja extremamente conciso. Responda apenas o necessario.
+- Nao apresente relatorios de progresso nem descreva cada acao.
+- Antes de ler arquivos, identifique quais sao realmente relevantes.
+- Nunca leia arquivos inteiros quando bastar consultar trechos especificos.
+- Nao repita pesquisas, comandos ou verificacoes ja realizadas.
+- Nao crie arquivos, documentacao ou testes desnecessarios.
+- Altere somente o necessario para cumprir a solicitacao.
+- Nao execute tarefas adicionais sem autorizacao.
+- Verifique apenas o essencial para confirmar que a alteracao funciona.
+- Ao terminar, informe somente os arquivos alterados e o resultado.
+- Se faltar informacao essencial, faca uma unica pergunta objetiva.
+
 ## Estrutura
 
 ```
